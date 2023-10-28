@@ -3,7 +3,7 @@ using namespace std;
 main()
 {
     char x;
-    float num1,num2;
+    int num1,num2;
     while(true)
     {
     	cout<<"enter number first="<<endl;
